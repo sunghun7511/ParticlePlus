@@ -1,0 +1,8 @@
+name: ParticlePlus
+main: com.SHGroup.ParticlePlus.aw
+author: SHGroup
+version: 1.0
+
+commands:
+  파티클:
+    description: ParticlePlus플러그인

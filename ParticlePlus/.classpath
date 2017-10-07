@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/spigot-1.8.7-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.7.9-R0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.7.2-R0.4-20140316.221310-4.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.6.4-R2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.6.2-R1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.6.2-R0.2-20130911.025816-39.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R1.1-20130701.165130-4.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R1.1-20130701.161353-3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R1.1-20130617.161801-2.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R1.1-20130615.022815-1.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130614.060246-16.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130613.230718-15.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130610.181759-14.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130608.060232-13.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130606.060208-12.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130606.005048-11.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130604.210404-10.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130604.003913-9.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130528.060212-8.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130527.060209-7.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130520.060219-6.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130516.095015-5.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130512.060215-4.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130507.060219-3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130506.060235-2.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.2-20130503.224215-1.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130503.130505-7.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130502.232958-6.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130502.180904-5.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130502.172901-4.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130501.001536-3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130501.001356-2.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1-20130430.183509-1.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit 1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/bukkit.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/Bukkit (2).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
